@@ -83,9 +83,7 @@ concern ourselves with how to use the methods of interest, like `nextInt()`.
 Abstraction is the core pillar to the object-oriented programming. Without it,
 the other pillars wouldn't be able to stand on their own.
 
-![oop-pillars](https://curriculum-content.s3.amazonaws.com/java-mod-3/oop-pillars/principles-of-oo.png)
-
-[4 Principles of Object-Oriented Programming](https://khalilstemmler.com/articles/object-oriented/programming/4-principles/)
+![oop-pillars](https://curriculum-content.s3.amazonaws.com/java-mod-3/oop-pillars/principles-of-oo.PNG)
 
 ## Conclusion
 
